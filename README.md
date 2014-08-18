@@ -21,10 +21,9 @@ Liste2:
 4. dhgj
 
 A [link](http://coursera.com).
- <<<   Comment  >>>
 
 Text attributes *italic*,
  **bold**, `monospace`.
  
-The rain---not the reign---in
+The rain--not the reign--in
  Spain.
