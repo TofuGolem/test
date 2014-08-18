@@ -11,8 +11,6 @@ Liste:
 * Derp
 * Fish
 
-this is a  break
-
 Liste2:
 
 1. dgjl
@@ -24,6 +22,3 @@ A [link](http://coursera.com).
 
 Text attributes *italic*,
  **bold**, `monospace`.
- 
-The rain--not the reign--in
- Spain.
